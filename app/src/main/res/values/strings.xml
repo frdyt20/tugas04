@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Slide Puzzle</string>
+    <string name="rematch">Ulangi</string>
+    <string name="quit">Keluar</string>
+</resources>
